@@ -1,35 +1,11 @@
 # About Me
-<!-- TIP:
-markdown is related to HTML, designed to be more human friendly; but you
-can also use html in markdown files, and markdown comments are HTML comments
-There are comments throught out this file (and will be in other assignments to)
-that are for you while you're working, but don't need to be visible in the final
-document.  Be sure to put your work, that you want graded *not* in a comment
--->
-
-<!-- TODO:
-include a 3 sentence summary of the most important points you want me to
-remember from the following
--->
 
 ## Bio
-<!-- TODO:
-include here anything you want me to know about you and anything that
-may help me understand your work in the course, for example:
-your name,
- your pronouns,
-favorite hobbies,
-career aspirations,
-why you're taking this class-->
-
-
+My name is Briac Werner-Guichebaron, and I’m a Computer Science major at the University of Rhode Island, also pursuing a minor in General Business.  
+I’m an entrepreneur at heart and currently building projects across finance and technology, including a private investment vehicle and sports tech products.  
+Outside of school and startups, I enjoy following markets, working on robotics projects, and exploring big ideas that connect technology, business, and real-world impact.
 
 ## Data Science, to me
-
-<!-- TODO:
-define data science in your own words. -->
-
-
-<!-- TODO:  -->
-
-
+To me, data science is about transforming raw information into insight that can guide decisions, solve problems, and spark innovation.  
+It blends programming, math, and domain knowledge to uncover patterns and predictions that would be invisible otherwise.  
+At its core, data science is about asking the right questions, using data responsibly, and creating value from analysis that can be applied in the real world.
